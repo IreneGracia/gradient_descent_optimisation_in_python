@@ -1,6 +1,6 @@
 # gradient_descent_optimisation_in_python
 
-The notebooks in this repository aim to demonstrate and implement optimisation through the gradient descent in python. 
+The notebooks in this repository aim to demonstrate and implement optimization through the gradient descent in python. 
 
 The gradient_descent_part I notebook intends to demonstrate parameter optimisation through the gradient descent procedure, by breaking into functions the steps of a single gradient descent epoch, and combining the individual functions in a loop to go through the entire optimisation procedure.
 
